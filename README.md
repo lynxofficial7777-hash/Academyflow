@@ -562,11 +562,11 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 - Email: arjun@example.com
 
 **Barani**
-- GitHub: [@barani](https://github.com/barani)
-- Role: Frontend Development & UI/UX Design
-- Email: barani@example.com
+- GitHub: [@lynxofficial7777-hash]
+- Role: Both Frontend & UI/UX and Backend Development Model Training
+- Email: baranimoorthy77@gmail.com
 
-**Project Repository:** [https://github.com/ar-jun-web/student-performance-ML-project](https://github.com/ar-jun-web/student-performance-ML-project)
+**Project Repository:** [https://github.com/lynxofficial7777-hash/Academyflow/edit/main/README.md]
 
 **Institution:** Sathyabama University, Chennai  
 **Course:** B.Sc Data Science (Final Year)  
