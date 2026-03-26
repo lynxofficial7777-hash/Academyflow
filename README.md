@@ -1,4 +1,4 @@
-# 🎓 AcademyFlow AI - Student Performance Prediction System
+# 🎓 AcademyFlow - Student Performance Prediction System
 
 > **Final Year B.Sc Data Science Project**  
 > **Sathyabama University**
